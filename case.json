@@ -7,12 +7,12 @@
            "first_name":"Joe",
            "last_name":"Bloggs",
            "address":{
-              "address1":"1 High Street",
-              "posttown":"Nottingham",
+              "address1":"1 Yarmouth Road",
+              "posttown":"Watford",
               "postcode":"WD24 4DQ"
            },
            "dob":"1990/08/11",
-           "dependents":2,
+           "dependents":1,
            "employment_status":"EMPLOYED"
         }
      },
