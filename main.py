@@ -1,8 +1,7 @@
 #Author:Jack Birch
 #This my Api. In order to run the api, ensure you are in the directory containing main.py and test.py 
 #running "python main.py" starts the server. Then running "python test.py" will send a request to the server with a get 
-#request and the name of json file. The postcodes of clients are extracted from the case_id, the 
-#region of the postcode is looked up via postcode.io.  
+#request and the name of json file.   
 
 from flask import Flask
 from flask_restful import Api, Resource
